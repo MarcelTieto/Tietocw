@@ -1,0 +1,2 @@
+# Tietocw
+Ćwiczenia
